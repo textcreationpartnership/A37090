@@ -1,0 +1,337 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A summarie platform of the heads of a body of practicall divinity which the ministers of the Protestant churches abroad have sued for, and which is farther enlarged in a treatise intituled, An earnest plea for gospel-communion, &amp;c.</title>
+            <author>Dury, John, 1596-1680.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1654</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37090</idno>
+            <idno type="STC">Wing D2890</idno>
+            <idno type="STC">ESTC R37314</idno>
+            <idno type="EEBO-CITATION">16350189</idno>
+            <idno type="OCLC">ocm 16350189</idno>
+            <idno type="VID">105316</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37090)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 105316)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1091:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A summarie platform of the heads of a body of practicall divinity which the ministers of the Protestant churches abroad have sued for, and which is farther enlarged in a treatise intituled, An earnest plea for gospel-communion, &amp;c.</title>
+                  <author>Dury, John, 1596-1680.</author>
+               </titleStmt>
+               <extent>[4], 7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Wodenothe ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Dury by Wing.</note>
+                  <note>Imperfect: faded, with print show-through and slight loss of print.</note>
+                  <note>Error in paging: p. 2 repeated in numbering only.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian union.</term>
+               <term>Creeds.</term>
+               <term>Theology, Doctrinal.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-11</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:105316:1" rendition="simple:additions"/>
+            <pb facs="tcp:105316:1" rendition="simple:additions"/>
+            <p>A SUMMARIE PLATFORM OF The heads of a Body of Practicall DIVINITY, Which the Miniſters of the Proteſtant Churches abroad have ſued for, and which is farther enlarged in a Treatiſe intituled, <hi>An earneſt Plea for</hi> Goſpel-Com<g ref="char:EOLhyphen"/>munion, <hi>&amp;c.</hi>
+            </p>
+            <p>LONDON, Printed for <hi>Richard Wodenothe</hi> in <hi>Leaden hall</hi>-ſtreet, 1654.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:105316:2"/>
+            <pb facs="tcp:105316:2"/>
+            <head>The Copie of a Letter written by Do<g ref="char:EOLhyphen"/>ctor <hi>
+                  <g ref="char:V">Ʋ</g>ſher,</hi> the <hi>Primate</hi> of <hi>Armach,</hi> to Maſter <hi>Dury,</hi> concerning the Pub<g ref="char:EOLhyphen"/>liſhing of this <hi>Body of Practical Divi<g ref="char:EOLhyphen"/>nitie:</hi> according to the premiſed <hi>Model.</hi>
+            </head>
+            <opener>
+               <salute>Maſter <hi>Dury,</hi>
+               </salute>
+            </opener>
+            <p>
+               <hi>
+                  <seg rend="decorInit">I</seg>
+               </hi> Am glad that you are ſtill willing to take ſome pains about the procuring of a body of practical Divinity, a work which I have long wiſhed for, and which formerly my heart was in, and my hand would have been in, if God had been pleaſed to continue our Peace; for when you brought over the Letters from the Forreign Churches, wherein they made it their Requeſt unto us, to Gratifie their Churches with ſome Endeavours a<g ref="char:EOLhyphen"/>bout the Compilement of this Work, which were ſeconded by a Letter from the Miniſters in and about <hi>London</hi> unto me, when I was in <hi>Ire<g ref="char:EOLhyphen"/>land,</hi> many yeers ago, I was very glad of the motion, and laid it ſeri<g ref="char:EOLhyphen"/>ouſly to heart, and conferred with ſome of my Brethren about it; that we might bring the work to ſome Perfection. Doctor <hi>Downam</hi> the then Biſhop of <hi>London-Derry,</hi> was a man whoſe ſtudies were much bent that way, for which cauſe it was referred to him, and he readily did under<g ref="char:EOLhyphen"/>take the task, to draw up a Model or Platform according to which that Syſteme or Body might be Compiled, that the Miniſters who had writ<g ref="char:EOLhyphen"/>ten to me, might be able to chuſe their tasks, and ſet themſelves awork about it; this Model he promiſed to ſend unto me to reviſe it, before it ſhould be imparted to the foreſaid Miniſters, that in our joint name it might be ſent unto them. But he either for want of health, or ſome other impediments did not expedite the Work before his death, &amp; when the trou<g ref="char:EOLhyphen"/>bles of <hi>Scotland</hi> did begin, which had ſome Reflexion upon us in <hi>Ire<g ref="char:EOLhyphen"/>land:</hi> &amp; I being come over hither, he the Biſhop of <hi>Derry</hi> being dead the
+<pb facs="tcp:105316:3"/>troubles of <hi>Ireland</hi> taking fire at the Proceedings of the then Parliament here, and the great Distractions of this and the other two Nations increa<g ref="char:EOLhyphen"/>ſing ever ſince; I could not do what was deſired of me, &amp; what I heartily deſired might have been done, and wiſh yet may be done: for it will ne<g ref="char:EOLhyphen"/>ver be too late or unſeaſonable to ſet upon ſuch an enterprize; if there<g ref="char:EOLhyphen"/>fore by your ſolicitation and pains you can oblige thoſe that in the <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſities, or in and about this City, are able and willing to undertake it, I think you will do a work very acceptable to all that are Godly, and Pro<g ref="char:EOLhyphen"/>fitable to all the Churches at home and abroad. Let me therefore intreat you to proceed, that whiles there is any appearance of doing good to our Generation; we may not neglect the opportunity. As for the Modell of the Heads which you have ſhewed unto me, I ſhall adviſe this, that the Precognitions may not be inſiſted upon largely; but as briefly and ſub<g ref="char:EOLhyphen"/>ſtantially as may be; and if ſome References be made unto ſuch Au<g ref="char:EOLhyphen"/>thours, as handle the heads of the Precognitions more at large, it may give ſatisfaction to ſuch as will be more curious and deſirous to ſee things amply handled. Secondly, my adviſe is; that the work may be contracted to as few hands as may be: who may meet and confer together about it, when they are perfecting their tasks. Thirdly, I would not have the Work too large and volumi<g ref="char:EOLhyphen"/>nous, for ſeveral reaſons, yet as full of matter as can be; and where enlargements may be thought uſeful, references may be made to ſuch Authours as uſe them moſt effectually. Laſtly, concerning the Caſes of Conſcience which ſhould be handled in this Body, I think they may be brought in and inſerted under every head of matter whereunto they belong. This is for the Preſent that which I would ſuggeſt. I pray God direct and aſſist you and all thoſe that go about it; and what I ſhall be able to do towards the Encouragement of able Workmen therein; you may be confident ſhall not be wanting from</p>
+            <closer>
+               <signed>
+                  <hi>Your loving Friend,</hi> Ja. Armachanus.</signed>
+               <dateline>
+                  <hi>From my Study,</hi> 
+                  <date>
+                     <hi>the 14th. of</hi> Decemb. <hi>1653.</hi>
+                  </date>
+               </dateline>
+               <salute>
+                  <hi>The Direction, To my loving Friend, Maſter</hi> John Dury, <hi>theſe.</hi>
+               </salute>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="summary">
+            <pb n="2" facs="tcp:105316:3"/>
+            <head>A <hi>S<g ref="char:V">Ʋ</g>MMARY PLATFORM</hi> Of the Heads of a Bodie of Practicall Divinity.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Y the Body of Practicall Divinity is meant a full and orderly Collection of all Di<g ref="char:EOLhyphen"/>vine Truths, relating to the <hi>Practice of Piety,</hi> to be digeſted into a <hi>Syſteme,</hi> or ſome other kinde of Book.</p>
+            <p>The Scope then of this Book ſhould be to hold forth the whole <hi>Doctrine of the life of Godlineſs,</hi> in an <hi>exact deſcription</hi> of all the <hi>Precognitions, Principles</hi> and <hi>Parts</hi> thereof; with a <hi>Reſolution</hi> of the <hi>materi<g ref="char:EOLhyphen"/>all doubts</hi> which may be incident thereunto.</p>
+            <p>This Doctrine may be delivered two wayes:</p>
+            <p>One way Poſitively, by holding forth the undoubted Truths, as they are Demonſtrable from their proper grounds.</p>
+            <pb n="2" facs="tcp:105316:4"/>
+            <p>Another way Doubtfully by reſolving all the Caſes of Conſcience which are raiſed thereupon.</p>
+            <p>The Poſitive Doctrine will be compleat, if it deliver three things.</p>
+            <list>
+               <item>Firſt, the Precognitions which are to be preſuppoſed, that it may be acknowledged, that there is a life of Godlineſs.</item>
+               <item>Secondly, the Principles which are to be received and be<g ref="char:EOLhyphen"/>lieved, that the life of Godlineſs may have a being, and be entertained in the ſoul.</item>
+               <item>Thirdly, the Parts which are to be wrought out in the whole man; that the life of Godlineſs may be powerfully, effectual in all his faculties and wayes.</item>
+            </list>
+            <div type="part">
+               <head>Of the Precognitions.</head>
+               <p>The Precognitions are certain Truths, which preſuppoſe a man only to be rational; and are to be made out unto him as ſuch; therefore they muſt not be deduced and offer<g ref="char:EOLhyphen"/>ed unto him as Scriptural Oracles, but as Concluſions evin<g ref="char:EOLhyphen"/>ced from the grounds of ſound reaſon, and may be referred to ſix Heads.</p>
+               <list>
+                  <item>1 That there is a Supreme Power over all things viſible and inviſible, which amongſt all men is called God.</item>
+                  <item>2 That this Supreme Power is to be feared, worſhipped, and glorified by man.</item>
+                  <item>3 That this Supreme Power is a Rewarder of thoſe that ſeek after him with fear, to worſhip and glorifie him.</item>
+                  <item>4 That the Writings of the Prophets, Evangeliſts, and Apoſtles in the Old and New Teſtament, are the Word of God.</item>
+                  <item>5 That theſe Writings were given to teach men the true way to ſeek after God by Fearing, Worſhipping, and Glo<g ref="char:EOLhyphen"/>rifying him.</item>
+                  <item>6 That there ſhall be a time wherein God will judge men according to the Works wherein they have or have not Feared, Worſhipped and Glorified him.</item>
+               </list>
+            </div>
+            <div type="part">
+               <pb n="3" facs="tcp:105316:4"/>
+               <head>Of the Principles.</head>
+               <p>The Principles are certain Truths which preſuppoſe a man to believe that the Scriptures are Gods Word, and upon this ſuppoſal, this fundamental poſition is to be made out, which is the root of all the Principles of Godlineſs, <hi>viz.</hi>
+               </p>
+               <p>That in the Scriptures God doth hold forth a Covenant to be entertained between himſelf &amp; men, which being believed, two things are afterward to be delivered from the Scriptures.</p>
+               <list>
+                  <item>Firſt, how the Covenant is revealed therein.</item>
+                  <item>Secondly, how it is made and confirmed with men.</item>
+               </list>
+               <p>Concerning the revealing of the Covenant in the Scri<g ref="char:EOLhyphen"/>ptures, the Doctrine of the Canonical Books (which are the only true inſtrument of the Covenant) as they are diſtingui<g ref="char:EOLhyphen"/>ſhable from the <hi>Apocryphal,</hi> is to be delivered; where two things are to be made out.</p>
+               <list>
+                  <item>Firſt, what the true Characters of Canonical Scripture are; and that the <hi>Apocryphal</hi> Books have them not.</item>
+                  <item>Secondly, that in the Canonical Books, the Truth and Covenant of God, is held forth by Divine Authority Infal<g ref="char:EOLhyphen"/>libly, perfectly and evidently.</item>
+               </list>
+               <p>Concerning the making of the Covenant, two things are to be held forth from the Scriptures.</p>
+               <list>
+                  <item>Firſt, what the Tenour of the Covenant is, which God doth make with men.</item>
+                  <item>Secondly, what the Motives are which oblige men in con<g ref="char:EOLhyphen"/>ſcience to entertain it.</item>
+               </list>
+               <p>Concerning the Tenour of the Covenant three things are to be opened.</p>
+               <list>
+                  <item>Firſt, who the perſons are concerned in the Covenant.</item>
+                  <item>Secondly, what the form of the contract, and the terms of the agreement are, between theſe perſons.</item>
+                  <item>Thirdly, what the performance and accompliſhment is of that which is contracted and agreed upon.</item>
+               </list>
+               <p>The Perſons concerned in the Covenant are God, Man<g ref="char:EOLhyphen"/>kinde, and Jeſus Chriſt.</p>
+               <pb n="4" facs="tcp:105316:5"/>
+               <p>God is conſidered here as he is the Authour of the Cove<g ref="char:EOLhyphen"/>nant, and as ſuch only revealed, and to be known by us.</p>
+               <p>Mankinde is conſidered as he is bound to depend upon God by a Covenant.</p>
+               <p>Jeſus Chriſt is conſidered as he is the Alone Mediator between God and man by a Covenant; in reſpect</p>
+               <p>Of his twofold Nature; as being both God and man in one perſon; and conſequently a true <hi>Medium</hi> and centre of all Gods and mens properties.</p>
+               <p>Of his threefold Offices as being the great Prophet, the High Prieſt, and the only King of all Saints in heaven and in earth.</p>
+               <p>Of his twofold ſtate of life, the firſt of Humiliation on earth; the ſecond of Exaltation in heaven; and the works of his Mediation between God and man in both eſtates.</p>
+               <p>The form of the contract and the terms of the agreement are to be opened in ſhewing two things:
+<list>
+                     <item>1 That the manner of Gods contracting is with none di<g ref="char:EOLhyphen"/>rectly and properly, but with his only begotten Son; and with mankinde only in, by, and through him.</item>
+                     <item>2 That the things promiſed by God and the terms upon which they are promiſed, are diſtinguiſhable,
+<list>
+                           <item>Firſt, as the promiſes are made to Chriſt.</item>
+                           <item>Secondly, as they are made to the believers in him.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>And laſtly, as they are made to the profeſſors of his Name.</p>
+               <p>The performance and accompliſhment of that which is promiſed and agreed upon to be done on all ſides, is to be opened in tvvo things:
+<list>
+                     <item>1 Hovv Chriſt by his obedience and ſufferings having per<g ref="char:EOLhyphen"/>formed all that he did undertake towards God for mankind; did by his death make over all the promiſes of the Covenant by way of Teſtament unto ſuch as believe and profeſs in his Name; that from him by Faith they might become theirs di<g ref="char:EOLhyphen"/>rectly and properly.</item>
+                     <item>2 How the Father by his power and glory made good unto Chriſt all his promiſes, by raiſing him from the dead,
+<pb n="5" facs="tcp:105316:5"/>by ſetting him at his right hand, and by giving him all power in heaven &amp; earth to adminiſter his own Teſtament by ſend<g ref="char:EOLhyphen"/>ing forth the Holy Ghoſt; for, through, in and by the preach<g ref="char:EOLhyphen"/>ing of the Goſpel: And in this Adminiſtration of the Teſta<g ref="char:EOLhyphen"/>ment of Chriſt by the Spirit in the Goſpel there is to be ope<g ref="char:EOLhyphen"/>ned
+<list>
+                           <item>1 A general call given, and an offer of Grace made by Chriſt on Gods part unto all that hear the Goſpel.</item>
+                           <item>2 A particular application of Grace diſpenſed according to Gods own will, whereby the terms of the Covenant are made good,</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p>To all believers, by their effectual calling and converſion unto God, and by their conſtant perſeverance in grace unto the end.</p>
+               <p>To all profeſſors, by their gathering of themſelves toge<g ref="char:EOLhyphen"/>ther into one body, and by their mutual edification and growth through the unity of the Spirit, and the communion of holy duties.</p>
+               <p>The tenour of the covenant being thus opened, the Mo<g ref="char:EOLhyphen"/>tives which are powerful to oblige mens conſciencies to en<g ref="char:EOLhyphen"/>tertain the offer, and keep the tenour thereof, are to be deli<g ref="char:EOLhyphen"/>vered, and may be reduced to three heads. <hi>viz.</hi>
+               </p>
+               <list>
+                  <item>1 To the happineſs which in this life befals to thoſe who are in Covenant with God. See <hi>Pſal.</hi> 25.10.</item>
+                  <item>2 To the obligation which lies upon the conſciences of men to obey Gods Commandements and his calls.</item>
+                  <item>3 To the condition wherein men ſhall be at the day of Judgement.</item>
+               </list>
+               <p>When theſe heads are handled which concern the making of the Covenant; then the Truth concerning the confirmati<g ref="char:EOLhyphen"/>on of the Covenant is to be opened, to which head doth be<g ref="char:EOLhyphen"/>long the Doctrine of the ſignes annexed unto the admini<g ref="char:EOLhyphen"/>ſtration thereof amongſt the profeſſors; where two things are chiefly to be inſiſted upon.</p>
+               <list>
+                  <item>1 How they are inſtituted and appointed by God, to be outward means to aſſure us of his meaning; and to ſeal up the realty of his working and effecting the tenour of the Covenant in the inward man.</item>
+                  <pb n="6" facs="tcp:105316:6"/>
+                  <item>2 How they are to be uſed by us, that we may be confir<g ref="char:EOLhyphen"/>med in Grace thereby, and receive the effect of that for which God hath appointed them.</item>
+               </list>
+               <p>Hitherto the Doctrines have been mentioned, which relate unto the principle of the life of Godlineſs which is the Co<g ref="char:EOLhyphen"/>venant of Grace; now follow the heads of Doctrine which contein the parts of this life, which are two:</p>
+               <p>The one conteining the ſubſtantial, the other the circum<g ref="char:EOLhyphen"/>ſtantial life of Godlineſs.</p>
+               <p>The Subſtantial life is the power and practice of all the truth, whereby God is enjoyed in the Covenant; and the Doctrine thereof may contein two parts.
+<list>
+                     <item>The firſt ſhould hold forth the Material parts of the life of Godlineſs diſtinct<g ref="char:EOLhyphen"/>ly.</item>
+                     <item>The ſecond the formal union of theſe parts in the whole man conjoyntly.</item>
+                  </list>
+               </p>
+               <p>The Material parts of the ſubſtantial life of Godlineſs, make up the inward, and the outward man of God.</p>
+               <p>The inward man of God is the New Creature, whereof the Doctrine to be delivered ſhould contein theſe heads:
+<list>
+                     <item>1 What the Regenerate ſtate of the ſoul is; and how it is wrought by the Spirit of God.</item>
+                     <item>2 How it is diſcerned and differenced from the unrege<g ref="char:EOLhyphen"/>nerate ſtate of the ſoul.</item>
+                     <item>3 What the acts and motions of the ſpiritual life are, wherein the regenerate ſoul hath ſecret fellowſhip with God.</item>
+                     <item>4 What the deceits are of natural imaginations, of ſu<g ref="char:EOLhyphen"/>perſtitious practices, and of Satanical deluſions mixing him<g ref="char:EOLhyphen"/>ſelf therewith, whereby he doth transform himſelf into an Angel of light, and whereby the ſoul is bewitched and poſ<g ref="char:EOLhyphen"/>ſeſſed with an unclean ſpirit, inſtead of being renewed by the Holy Ghoſt.</item>
+                  </list>
+               </p>
+               <p>The outward man of God is the ſtate of life, wherein all our wayes are through the inward principle made conforma<g ref="char:EOLhyphen"/>ble unto the heavenly calling. Here the Doctrines are to be delivered,
+<list>
+                     <item>1 Of ſelf-denial, in reſpect of ungodlineſs and worldly luſts which cleaving to our nature are fomented from with<g ref="char:EOLhyphen"/>out in our fleſh.</item>
+                     <pb n="7" facs="tcp:105316:6"/>
+                     <item>2 Of ſelf reſignation, or of offering up our wayes to walk after the Spirit; by
+<list>
+                           <item>The life of Sobriety in reſpect of our ſelves.</item>
+                           <item>The life of Righteouſneſs in reſpect of our Neighbours.</item>
+                           <item>The life of Religiouſneſs in reſpect of God.</item>
+                           <item>The formal Union of theſe parts ſtands in the life of univerſal obedi<g ref="char:EOLhyphen"/>ence, whereby the whole man in all his acts is inwardly and outwardly ſubordinate unto the will of God, according to the tenour of his Law; where the Doctrine of the ten Commandements ſhould be delivered in three things.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <list>
+                  <item>1 In the Rules of interpreting the Commandements.</item>
+                  <item>2 In the Abſtract of Duties; ſhewing how all vertues commanded, and vices forbidden are to be referred to the ten words of the Law gi<g ref="char:EOLhyphen"/>ven upon Mount <hi>Sinai.</hi>
+                  </item>
+                  <item>3 In the ſpiritual watch to be kept over ones ſelf and over others; where the means and helps to duties, &amp; the ſignes and cauſes of ſins are to be laid open.</item>
+               </list>
+               <p>The circumſtantial life of Godlineſs is the ſtate of the life, wherein we walk circumſpectly before God, in reſpect of our ſeverrl relations and callings; where the duties relating to the circumſtances of our natural, and of our ſpiritual ſtates and callings ſeverally and to both jointly are to be opened.</p>
+               <p>Our natural ſtates &amp; callings are differences by the properties of ſex<g ref="char:EOLhyphen"/>es; and by the ſeveral kindes of humane ſocieties; and the relations ari<g ref="char:EOLhyphen"/>ſing between the members thereof.</p>
+               <p>The ſexes being male and female; the works proper to each of them are to be deſcribed, and the limits of their power and authority in their employments ſet forth, from the preeminencie of the properties which are in the one above the other.</p>
+               <p>The natural ſocieties of men ariſe either from the unity of bloud, or of outward intereſts.</p>
+               <p>From the unity of blood there is
+<list>
+                     <item>1 The ſociety of man and wife to propagate mankinde.</item>
+                     <item>2 The ſociety of parents and children.</item>
+                     <item>3 The ſociety of brethren and ſiſters, of kindred and allies.</item>
+                  </list>
+               </p>
+               <p>From the unity of outward intereſts there is
+<list>
+                     <item>1 The ſociety of maſter and ſervant.</item>
+                     <item>2 The ſociety of Magiſtrate and Subject.</item>
+                     <item>3 The ſociety of Proprietor and Tenant.</item>
+                  </list>
+               </p>
+               <pb facs="tcp:105316:7"/>
+               <p>The ſpiritual ſocieties ariſe in the Church from the ſeveral conditions and joynt relations;
+<list>
+                     <item>1 Of members to each other, and to their Officers.</item>
+                     <item>2 Of Officers to each other, and to their members.</item>
+                  </list>
+               </p>
+               <p>Of all theſe ſtates and relations the duties ſhould be laid open as they are preſcribed in the Word diſtinctly.</p>
+               <p>Then the ſtate and calling which hath a reſpect to all ſorts of ſocie<g ref="char:EOLhyphen"/>ties joyntly, as being the ſeed-plot and ſeminary of all the vertues to be exerciſed therein, is the ſtate of Schools; where ought to be delivered:
+<list>
+                     <item>1 What kindes of Schools ought to be conſtituted ſuitable to the principles and life of Chriſtianity.</item>
+                     <item>2 To whom the care of erecting, and reforming of Schools doth be<g ref="char:EOLhyphen"/>long; and what neceſſity there is of this work.</item>
+                     <item>3 What the peculiar duties are of School-maſters and Miſtreſſes; and of Scholars of both ſexes.</item>
+                  </list>
+               </p>
+               <p>Hitherto the firſt and poſitive part of the Body of Practical Divinity hath been delineated; the other part which ſhould contein the Caſes of Conſcience may be divided into two parts; whereof the firſt ſhould be a general direction how all Caſes ought to be reſolved: the ſecond ſhould be a ſpecial collection of the moſt conſiderable Caſes which ought to be reſolved diſtinctly by themſelves.</p>
+               <p>In the general direction two things ſhould be taught,
+<list>
+                     <item>1 How all believers ſhould endeavour to reſolve their own doubts ac<g ref="char:EOLhyphen"/>cording to the Analogie of Faith, Hope and Charity, by the general principles of the Covenant; and the fundamental Rules of duties per<g ref="char:EOLhyphen"/>taining to Godlineſs.</item>
+                     <item>2 How Teachers or experienced Chriſtians ſhould endeavour to help the weak and doubting profeſſors to reſolve their Caſes, by reflecting up<g ref="char:EOLhyphen"/>on the nature of the ſubject whereunto the doubt doth belong; and by conſidering the capacity of the perſon who maketh the ſcruple, and the occaſion upon which it is raiſed.</item>
+                  </list>
+               </p>
+               <p>In the ſpecial collection of particular Caſes the chief thing adviſable is concerning the ordering of them; that they ſhould be ranked in the method, whereby they relate unto the parts of the poſitive Doctrine; and as they may from thence ariſe in the minde of a weak Chriſtian; ſo that whether the Caſes be collected and put into one diſtinct part of the body by themſelves, or divided ſeverally and diſperſed into the whole body under the heads of the matter whereunto they belong, the method may ſtill be the ſame, to finde them out upon all occaſions when a re<g ref="char:EOLhyphen"/>ſolution is to be ſought after.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
